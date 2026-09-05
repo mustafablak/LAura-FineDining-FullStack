@@ -17,7 +17,7 @@
 
 ## 🎥 Project Demo
 
-> **Note to recruiter/viewer:** Watch the seamless Framer Motion animations and full-stack database interactions in the demo below.
+> **Note to recruiter/viewer:** Watch the Framer Motion animations and full-stack database interactions in the demo below.
 
 ![L'AURA Demo Video](images/demo.gif)
 
@@ -96,7 +96,7 @@ dotnet run
 ```
 The API will start listening on http://localhost:5025.
 
-2. Start the Frontend (React)
+### 2. Start the Frontend (React)
 Open a new terminal, navigate to the frontend folder, install dependencies, and start Vite:
 ```bash
 cd frontend
@@ -105,15 +105,24 @@ npm run dev
 ```
 The application will open at http://localhost:5173.
 
+---
+
 🔐 Admin Access
 To test the management capabilities, navigate to:
 
 URL: http://localhost:5173/secure-login
+
 Demo Password: Laura2026
+
+---
 
 👨‍💻 Developer
 Developed by Mustafa Ablak
+
 LinkedIn: [https://www.linkedin.com/in/mustafa-ablak-565173299/]
+
 Website: [https://mustafablak.vercel.app/]
+
 ✉️ Email: [mustafablak01@gmail.com]
-This project was built to demonstrate proficiency in seamless Full-Stack integration, UI/UX design principles, and RESTful API development.
+
+This project was built to demonstrate proficiency in Full-Stack integration, UI/UX design principles, and RESTful API development.
