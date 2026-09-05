@@ -107,7 +107,7 @@ The application will open at http://localhost:5173.
 
 ---
 
-🔐 Admin Access
+### 🔐 Admin Access
 To test the management capabilities, navigate to:
 
 URL: http://localhost:5173/secure-login
@@ -116,7 +116,8 @@ Demo Password: Laura2026
 
 ---
 
-👨‍💻 Developer
+### 👨‍💻 Developer
+
 Developed by Mustafa Ablak
 
 LinkedIn: [https://www.linkedin.com/in/mustafa-ablak-565173299/]
