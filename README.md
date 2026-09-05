@@ -112,8 +112,6 @@ To test the management capabilities, navigate to:
 
 URL: http://localhost:5173/secure-login
 
-Demo Password: Laura2026
-
 ---
 
 ### 👨‍💻 Developer
